@@ -45,7 +45,7 @@ Based on official Indonesian government administrative data (Kemendagri).
     ],
     "demo": [],
     "images": [
-        "static/description/images/icon.png",
+        "static/description/images/banner.gif",
     ],
     "installable": True,
     "application": False,
