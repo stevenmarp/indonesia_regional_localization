@@ -26,7 +26,7 @@ Based on official Indonesian government administrative data (Kemendagri).
     "author": "Steven Marp",
     "website": "https://apps.odoo.com/apps/browse?repo_maintainer_id=512936",
     "category": "Regional",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "depends": [
         "base",
         "contacts",
